@@ -1,4 +1,4 @@
-README - Sistema de Inventário de Jogo
+README - Sistema de Inventário de Dark Souls
 
 O que é um inventário de jogo?
 Um inventário de jogo é um sistema que gerencia os itens que um jogador pode coletar, armazenar e utilizar dentro de um jogo. Ele pode incluir armas, armaduras, recursos consumíveis e outros objetos essenciais para a progressão do jogador.
