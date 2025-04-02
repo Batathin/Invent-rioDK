@@ -68,8 +68,8 @@ Os principais arquivos PHP e suas funções são:
 
 
 Passo a passo para executar o sistema
-1. Instalar um servidor local (XAMPP, WAMP, ou equivalente).
-2. Copiar os arquivos do projeto para a pasta htdocs (XAMPP) ou www (WAMP).
+1. Instalar um servidor local (XAMPP).
+2. Copiar os arquivos do projeto para a pasta htdocs (XAMPP).
 3. Importar o banco de dados inventário_dw.sql para o MySQL.
 4. Iniciar o servidor Apache e MySQL.
 5. Acessar http://localhost/Inventario-master/index.php pelo navegador.
